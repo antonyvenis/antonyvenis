@@ -86,9 +86,9 @@ I'm a **Software Developer** with a strong foundation in **Python, Django, and R
 
 | Project | Description | Key Skills |
 |---|---|---|
-| ⚡ **[Legend - E-Commerce Website](https://www.linkedin.com/in/antony-venis-t-30353529a)** | A full-featured e-commerce platform with product listing, cart, and order management | `Django` `React JS` `MySQL` `REST API` |
+| ⚡ **[Legend - E-Commerce Website](https://e-commerce-app-food.vercel.app/login)** | A full-featured e-commerce platform with product listing, cart, and order management | `Django` `React JS` `MySQL` `REST API` |
 | 🎨 **[Portfolio Website](https://antony-venis-t-portfolio.vercel.app/)** | Personal portfolio showcasing projects, skills, and resume in a clean responsive design | `React JS` `HTML` `CSS` `JavaScript` |
-| 🎓 **[Student Management System](https://github.com/student-management-system)** | A web app to manage student records — add, update, search, and track academic data | `Django` `Python` `SQLite` `Bootstrap` |
+| 🎓 **[Student Management System](https://github.com/antonyvenis/Student-Management-System)** | A web app to manage student records — add, update, search, and track academic data | `Django` `Python` `SQLite` `Bootstrap` |
 
 <br>
 
