@@ -1,4 +1,5 @@
-<img width="1337" height="674" alt="image" src="https://github.com/user-attachments/assets/692104c2-17b5-4df9-9ea0-ceef1bdf5b0a" />## Hi there 👋
+<!-- <img width="1337" height="674" alt="image" src="https://github.com/user-attachments/assets/692104c2-17b5-4df9-9ea0-ceef1bdf5b0a" /> -->
+## Hi there 👋 
 
 <!--
 **antonyvenis/antonyvenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Django+%7C+React+JS+%7C+REST+APIs;Open+to+Work+%F0%9F%9A%80;Building+Real-World+Web+Apps" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/antony-venis-t-30353529a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:antonyvenis1212@gmail.com">
@@ -85,9 +86,9 @@ I'm a **Software Developer** with a strong foundation in **Python, Django, and R
 
 | Project | Description | Key Skills |
 |---|---|---|
-| ⚡ **[Legend - E-Commerce Website](https://github.com/antonyvenis)** | A full-featured e-commerce platform with product listing, cart, and order management | `Django` `React JS` `MySQL` `REST API` |
-| 🎨 **[Portfolio Website](https://github.com/antonyvenis)** | Personal portfolio showcasing projects, skills, and resume in a clean responsive design | `React JS` `HTML` `CSS` `JavaScript` |
-| 🎓 **[Student Management System](https://github.com/antonyvenis)** | A web app to manage student records — add, update, search, and track academic data | `Django` `Python` `SQLite` `Bootstrap` |
+| ⚡ **[Legend - E-Commerce Website](https://www.linkedin.com/in/antony-venis-t-30353529a)** | A full-featured e-commerce platform with product listing, cart, and order management | `Django` `React JS` `MySQL` `REST API` |
+| 🎨 **[Portfolio Website](https://antony-venis-t-portfolio.vercel.app/)** | Personal portfolio showcasing projects, skills, and resume in a clean responsive design | `React JS` `HTML` `CSS` `JavaScript` |
+| 🎓 **[Student Management System](https://github.com/student-management-system)** | A web app to manage student records — add, update, search, and track academic data | `Django` `Python` `SQLite` `Bootstrap` |
 
 <br>
 
