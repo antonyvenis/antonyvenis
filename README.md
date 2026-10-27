@@ -50,7 +50,7 @@ I'm a **Software Developer** with a strong foundation in **Python, Django, and R
 - 🌱 Sharpening my skills in REST APIs, databases, and deployment
 - 💼 **Actively seeking Software Developer opportunities**
 - 📫 Reach me at **antonyvenis1212@gmail.com**
-- 📍 Based in **Coimbatore, India**
+- 📍 Based in **Chennai, India**
 
 <br>
 
