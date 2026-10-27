@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/📍-Coimbatore,%20India-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍-Chennai,%20India-grey?style=for-the-badge" />
 <img src="https://komarev.com/ghpvc/?username=antonyvenis&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
 
