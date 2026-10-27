@@ -127,7 +127,7 @@ S.I.V.E.T College · *2022 – 2025*
 <td align="center" width="100%">
 
 ### 🐍 Python Full Stack Development
-**4-Month Intensive Program** · Completed **March 2026**
+**4-Month Intensive Program** · Completed **April 2026**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
